@@ -1,2 +1,5 @@
 # JetpackComposeAnimatedList
-  mtp:/realme 6i/Internal shared storage/Video Compressor/VID_20210704_143531.mp4
+
+
+https://user-images.githubusercontent.com/69595691/124379848-fe26cd80-dcd6-11eb-91bf-44b93e5788f1.mp4
+
